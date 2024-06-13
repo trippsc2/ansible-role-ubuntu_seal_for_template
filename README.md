@@ -1,13 +1,13 @@
 <!-- BEGIN_ANSIBLE_DOCS -->
 
-# Ansible Role: trippsc2.ubuntu_seal_for_template
-This role seals an Ubuntu machine for use as a template.
+# Ansible Role: ansible-role-ubuntu_seal_for_template
+DEPRECATED: Use trippsc2.template.ubuntu instead.
 
 ## Requirements
 
 | Platform | Versions |
 | -------- | -------- |
-| Ubuntu | focal, jammy, noble |
+| Ubuntu | <ul><li>focal</li><li>jammy</li><li>noble</li></ul> |
 
 ## Dependencies
 
